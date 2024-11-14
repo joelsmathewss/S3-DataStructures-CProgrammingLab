@@ -1,1 +1,1 @@
-# S3-DataStructures-CProgrammingLab
+# DS-lab-in-C
